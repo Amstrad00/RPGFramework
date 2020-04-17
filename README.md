@@ -1,6 +1,9 @@
 # RPGFramework
 A Framework for creating Open World Immersive Sim FPP RPG games.
 
+## Project Download:
+https://github.com/Amstrad00/RPGFramework/archive/master.zip
+
 ## Licence:
 The RPGFramework is licensed under a [Creative Commons Attribution 4.0 International License][].
 
