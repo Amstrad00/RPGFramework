@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=fyzsq6HBM58
 https://github.com/Amstrad00/RPGFramework/archive/master.zip
 
 ## Support me on Patreon:
-[![Become a Patron](https://c6.patreon.com/becomePatronButton.bundle.js)](https://www.patreon.com/bePatron?u=4060868)
+[![](https://raw.githubusercontent.com/Amstrad00/RPGFramework/master/.github/patreon.png)](https://www.patreon.com/bePatron?u=4060868)
 
 ## Licence:
 The RPGFramework is licensed under a [Creative Commons Attribution 4.0 International License][].
